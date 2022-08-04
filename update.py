@@ -1,5 +1,13 @@
-#ENCODE BY RAZOR KENWAY
-#YOU CAN TRY THIS DECODE GOD BLESS
+#  ENCODE BY RAZOR KENWAY
+#  YOU CAN TRY THIS DECODE GOD BLESS
+
+#  GitHub   : https://github.com/RazorKenway
+#  Email    : service.slandro.official@gmail.com
+#  Youtube  : https://www.youtube.com/c/SLAndroid
+#  Telegram : https://t.me/SL_Android
+
+#  Copyright RAZOR KENWAY 2022
+
 import gzip,marshal,zlib,base64,binascii,lzma
 
 try:
